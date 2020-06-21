@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "gitprofile"
+    }
+  },
+  "defaultProject": "gitprofile",
+  "cli": {
+    "analytics": false
+  }
 }
