@@ -58,11 +58,11 @@
       text-transform: uppercase;
       font-weight: bold;
       font-size: 40px;
-    font-family: 'Spicy Rice', cursive;
-    text-align: center;
-    border-bottom: 2px solid rgb(168, 56, 56);
-    padding: 10px;
-    background-color: blue;
+      font-family: 'Spicy Rice', cursive;
+      text-align: center;
+      border-bottom: 2px solid rgb(168, 56, 56);
+      padding: 10px;
+      background-color: blue;
       }
       #des{
         font-size: 20px;
