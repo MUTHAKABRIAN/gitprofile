@@ -16,15 +16,15 @@
     margin: 7px; */
   
   #head h1{
-    font-size: 40px;
-    font-family: 'Spicy Rice', cursive;
+    font-size: 30px;
+    font-family: 'system-ui', cursive;
     text-align: center;
     border-bottom: 2px solid black;
     padding: 10px;
     text-shadow:0 10px white;
     }
     #head p{
-      font-size: 40px;
+      font-size: 30px;
       text-align: center;
       }
       #dec{
@@ -59,5 +59,5 @@
       }
       #des{
         font-size: 20px;
-        color: black;
+        color:black;
       }
