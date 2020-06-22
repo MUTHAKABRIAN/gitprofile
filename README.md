@@ -10,7 +10,7 @@ Angular CLI version 9.1.8
 HTML and Bootstrap
 
 ## BDD
-[gitprofile] ("src/assets/gitp.png")
+![gitprofile] ("src/assets/gitp.png")
 
 _MIT_
 Copyright (c) 2019 _brian muthaka_
