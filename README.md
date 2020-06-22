@@ -8,6 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## Tech Used
 Angular CLI version 9.1.8
 HTML and Bootstrap
+
 ## BDD
 <img src="src/assets/gitp.png>
 
